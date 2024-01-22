@@ -2,6 +2,6 @@
 
 #include<stdio.h>
 int main(){
-    Pintf("My name is Praveen");
+    printf("My name is Praveen");
     return 0;
 }
