@@ -1,1 +1,7 @@
-// 1. Write a C program to print your name.
+// 1. Write a C program to print your name
+
+#include<stdio.h>
+int main(){
+    Pintf("My name is Praveen");
+    return 0;
+}
