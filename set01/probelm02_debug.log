@@ -1,0 +1,29 @@
+(gdb) b 4
+Breakpoint 1 at 0x40146e: file problem02.c, line 4.
+(gdb) b 11
+Breakpoint 2 at 0x4014bc: file problem02.c, line 11.
+(gdb) r
+Starting program: C:\Users\Prav2\c-activity-sets\c-activity-sets\set01/a.exe
+[New Thread 2880.0x2894]
+[New Thread 2880.0x3d04]
+
+Breakpoint 1, main () at problem02.c:6
+6           printf("enter the first number:\n");
+(gdb) n
+enter the first number:
+7           scanf("%d", &num1);
+(gdb) n
+n
+8           printf("enter the second number:\n");
+(gdb) n
+enter the second number:
+9           scanf("%d", &num2);
+(gdb) n
+10          sum = num1 + num2;
+(gdb) n
+
+Breakpoint 2, main () at problem02.c:11
+11          printf("the sum of %d + %d = %d\n", num1, num2, sum);
+(gdb) n
+the sum of 0 + 7804272 = 7804272
+12      }(gdb)

@@ -1,0 +1,17 @@
++r
+Starting program: c:\Users\Prav2\c-activity-sets\c-activity-sets\set01/./problem02.exe 
+[New Thread 15372.0x18d4]
+[New Thread 15372.0x5f88]
+[Inferior 1 (process 15372) exited normally]
++s
+The program is not being run.
++n
+The program is not being run.
++r
+Starting program: c:\Users\Prav2\c-activity-sets\c-activity-sets\set01/./problem02.exe 
+[New Thread 22896.0x6a10]
+[New Thread 22896.0x53cc]
+[Inferior 1 (process 22896) exited normally]
++n
+The program is not being run.
++q
