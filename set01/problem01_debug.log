@@ -1,2 +1,16 @@
-+q
-+Q
+(gdb) b 5
+Breakpoint 1 at 0x40146e: file problem01.c, line 5.
+(gdb) r
+Starting program: C:\Users\Prav2\c-activity-sets\c-activity-sets\set01/a.exe
+[New Thread 13784.0x1a74]
+[New Thread 13784.0xaf4]
+
+Breakpoint 1, main () at problem01.c:5
+5           printf("My name is Praveen");
+(gdb) n
+My name is Praveen6         return 0;
+(gdb) n
+7       }(gdb)
+0x00401288 in __register_frame_info ()
+(gdb) q
+A debugging session is active.
