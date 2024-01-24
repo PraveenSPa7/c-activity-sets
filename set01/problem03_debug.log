@@ -1,0 +1,15 @@
++r
+Starting program: c:\Users\Prav2\c-activity-sets\c-activity-sets\set01/./problem03.exe 
+[New Thread 26184.0x6578]
+[New Thread 26184.0x62d4]
+[Inferior 1 (process 26184) exited normally]
++n
+The program is not being run.
++n
+The program is not being run.
++r
+Starting program: c:\Users\Prav2\c-activity-sets\c-activity-sets\set01/./problem03.exe 
+[New Thread 948.0x4b04]
+[New Thread 948.0x6390]
+[Inferior 1 (process 948) exited normally]
++q
